@@ -10,7 +10,7 @@ train_lrcs_path = [
 train_data_dir = ''
 train_max_pixel_nums = 400 * 400 * 5
 train_bucket_seps = (50, 50, 50)
-train_max_batch_size = 8
+train_max_batch_size = 4
 train_num_workers = 4
 
 valid_lrc_path = '/content/drive/MyDrive/SEMv2_data/dataset/lrc_test/table_copy.lrc'
