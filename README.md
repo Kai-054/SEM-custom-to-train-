@@ -1,6 +1,8 @@
-# Split, Embed and Merge: An accurate table structure recognizer  
+# Split, Embed and Merge (SEM) – Table Structure Recognizer - Fix
 
-This repository contains the source code of our Pattern Recognition 2022 paper: [Split, Embed and Merge: An accurate table structure recognizer](https://arxiv.org/abs/2107.05214).
+This repository is based on the source code of the Pattern Recognition 2022 paper: [Split, Embed and Merge: An accurate table structure recognizer](https://arxiv.org/abs/2107.05214).  
+We have modified some directories and configurations to enable training on custom data.
+
 
 ## Introduction
 
